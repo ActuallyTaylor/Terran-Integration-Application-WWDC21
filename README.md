@@ -7,3 +7,4 @@ To use the project...
 3. Open the included .playgroundbook in Swift Playgrounds for macOS or iPadOS
    - Runs much better on a mac, mostly because of the speed at which it can update the SwiftUI views.
    - If I was doing this again I would have used Core Graphics to render everything instead of SwiftUI. It would be much faster.
+4. Run the proejct in Swift Playgrounds
